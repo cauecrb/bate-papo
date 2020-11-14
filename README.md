@@ -1,0 +1,1 @@
+Um projeto de bate papo simples, para adquirir conhecimento com socket.io, nodeJs e JavaScript
