@@ -2,8 +2,6 @@
 
 > Um bate papo em rede local, envia e recebe mensagens.
 
-[![NPM Version][npm-image]][npm-url]
-
 Um projeto de bate papo simples, para adquirir conhecimento com socket.io, nodeJs e JavaScript.
 
 ![](imagembatepapo.png)
